@@ -4,8 +4,8 @@ plugins:
 
 gem "github-pages", group: :jekyll_plugins
 
-title: "Your Site Title"
-description: "A short description of your site"
+title: "CRISP-DM"
+description: "unraveling the mysteries of data understanding, modeling, and deployment"
 show_downloads: true # Set to false if you don't want a download link
 google_analytics: UA-XXXXXXXXX-X # Your Google Analytics tracking ID
 
