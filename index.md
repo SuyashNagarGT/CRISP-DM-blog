@@ -1,3 +1,10 @@
+
+<center>
+
+🚀 CRISP-DM
+
+</center>
+
 🚀 Introduction to CRISP-DM
 🌍 What is CRISP-DM?
 CRISP-DM (Cross Industry Standard Process for Data Mining) is a robust and structured methodology used across industries for data science and machine learning projects. It ensures consistency, efficiency, and repeatability in handling data-related tasks.
