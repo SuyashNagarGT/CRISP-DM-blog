@@ -48,8 +48,52 @@ CRISP-DM consists of six essential phases, each playing a critical role in the s
 ---
 <center>
 
-🤝 Business Understanding
+# Business Understanding
 
 </center>
 
-<img src="https://github.com/SuyashNagarGT/CRISP-DM-blog/blob/main/BusinessUnderstanding.png" alt="CRISP-DM" width="300" height="300">
+<p align="right">
+  <img src="https://github.com/SuyashNagarGT/CRISP-DM-blog/blob/main/BusinessUnderstanding.png" alt="CRISP-DM" width="800" height="150">
+</p>
+
+
+
+## Goal
+- **Identify & Translate**: Pinpoint the business problem and convert it into a clear data science challenge.
+
+## Key Considerations
+- **Clear Objectives**: Know what the organization aims to achieve.
+- **Stakeholder Expectations**: Ensure alignment with decision-makers.
+- **Constraints & Risks**: Recognize data, budget, or technical limitations.
+- **Success Criteria**: Establish measurable indicators of success.
+
+## Important Steps
+1. **Determine Objectives**: Define strategic goals and success metrics.
+2. **Assess the Situation**: Evaluate resources, constraints, and risks.
+3. **Define Data Goals**: Translate business needs into specific data tasks.
+4. **Develop a Project Plan**: Outline the approach, tools, and timeline.
+
+## Outcome
+- **Clear Problem Understanding** with a defined scope, tangible success criteria, and a structured roadmap for subsequent phases.
+
+---
+
+# Establishing Clear Business Objectives
+
+1. **Define Vision & Mission**
+   - Grasp the long-term purpose and ensure objectives support it.
+
+2. **Identify Challenges & Opportunities**
+   - Leverage market research and SWOT analysis to pinpoint trends and customer needs.
+
+3. **Set SMART Objectives**
+   - **Specific, Measurable, Achievable, Relevant, Time-bound** targets to track progress.
+
+4. **Involve Stakeholders**
+   - Engage leadership, employees, and customers for comprehensive insights and buy-in.
+
+5. **Align with Financial & Operational Goals**
+   - Ensure objectives contribute directly to revenue growth, cost efficiency, and sustainability.
+
+6. **Monitor & Adjust**
+   - Continuously track progress, using feedback and analytics to refine the strategy.
