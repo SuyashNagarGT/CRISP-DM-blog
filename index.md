@@ -19,6 +19,9 @@ Enables teams to collaborate effectively with a common framework.
 🏆 Phases of CRISP-DM
 CRISP-DM consists of six essential phases, each playing a critical role in the success of a data-driven project.
 
+![CRISP-DM](https://github.com/SuyashNagarGT/CRISP-DM-blog/blob/main/1196px-CRISP-DM_Process_Diagram.png)
+
+
 1️⃣ Business Understanding 💡
 ✔ Define project goals & requirements. ✔ Understand business challenges & expected outcomes. ✔ Identify key stakeholders & success metrics.
 
@@ -40,3 +43,4 @@ CRISP-DM consists of six essential phases, each playing a critical role in the s
 💡 CRISP-DM is highly adaptable, allowing teams to revisit earlier phases based on new insights and data discoveries. It’s a powerful strategy that ensures data-driven decision-making is effective and repeatable.
 
 Would you like me to include real-world examples of CRISP-DM implementation? Let’s make this even more engaging! 🔥
+
