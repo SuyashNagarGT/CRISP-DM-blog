@@ -4,8 +4,10 @@
 🚀 CRISP-DM
 
 </center>
+---
 
 🚀 Introduction to CRISP-DM
+
 🌍 What is CRISP-DM?
 CRISP-DM (Cross Industry Standard Process for Data Mining) is a robust and structured methodology used across industries for data science and machine learning projects. It ensures consistency, efficiency, and repeatability in handling data-related tasks.
 
@@ -19,7 +21,8 @@ Enables teams to collaborate effectively with a common framework.
 🏆 Phases of CRISP-DM
 CRISP-DM consists of six essential phases, each playing a critical role in the success of a data-driven project.
 
-![CRISP-DM](https://github.com/SuyashNagarGT/CRISP-DM-blog/blob/main/1196px-CRISP-DM_Process_Diagram.png)
+<img src="https://github.com/SuyashNagarGT/CRISP-DM-blog/blob/main/1196px-CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="300" height="300">
+
 
 
 1️⃣ Business Understanding 💡
@@ -42,5 +45,11 @@ CRISP-DM consists of six essential phases, each playing a critical role in the s
 
 💡 CRISP-DM is highly adaptable, allowing teams to revisit earlier phases based on new insights and data discoveries. It’s a powerful strategy that ensures data-driven decision-making is effective and repeatable.
 
-Would you like me to include real-world examples of CRISP-DM implementation? Let’s make this even more engaging! 🔥
+---
+<center>
 
+🤝 Business Understanding
+
+</center>
+
+<img src="https://github.com/SuyashNagarGT/CRISP-DM-blog/blob/main/BusinessUnderstanding.png" alt="CRISP-DM" width="300" height="300">
